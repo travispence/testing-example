@@ -21,3 +21,4 @@ npm run test
 
 #### Expected Output
 
+![Testing Output](https://github.com/travispence/testing-example/blob/master/output.png?raw=true)
